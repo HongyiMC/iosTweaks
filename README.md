@@ -1,3 +1,3 @@
-# betterFaceid
-Better FaceID for ios<br/>
+# iosTweaks
+Tweaks for ios<br/>
 Filza required
