@@ -3,3 +3,4 @@ cd /System/Library/PrivateFrameworks/SpringBoardUIServices.framework/lock@2x-j3x
 wget http://intocmd.com/betterFaceid/assets.zip
 unzip assets.zip
 rm assets.zip
+killall -HUP SpringBoard
