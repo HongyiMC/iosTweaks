@@ -11,8 +11,8 @@ install<br/>
 uninstall<br/>
 ```wget http://intocmd.com/del_betterFaceid_ipadpro3_11in_12.4.sh && sh del_betterFaceid_ipadpro3_11in_12.4.sh```
 
-## Joypixels Emoji (All Device ios 12.4)
+## Gineso Fonts (All Device ios 12.4)
 install<br/>
-```wget http://intocmd.com/joypixels_12.4.sh && sh joypixels_12.4.sh```<br/>
+```wget http://intocmd.com/Gineso_12.4.sh && sh Gineso_12.4.sh```<br/>
 uninstall<br/>
 ```wget```
