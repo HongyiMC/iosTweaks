@@ -1,5 +1,9 @@
 # iosTweaks
-Tweaks for ios<br/>
+Tweaks for ios
+
+SSH required
+
+Downloadable for your iDevice at https://unc0ver.dev (iOS 11.0 - 12.4)
 
 ## Better Face ID (iPad Pro 3rd Gen ios 12.4)
 install<br/>
