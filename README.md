@@ -12,7 +12,7 @@ install<br/>
 uninstall<br/>
 ```wget```
 
-## Better Face ID (iPad Pro 3rd Gen ios 12.4)
+## Better Face ID (iPad Pro 3rd Gen 11inches ios 12.4)
 install<br/>
 ```wget http://intocmd.com/betterFaceid_ipadpro3_11in_12.4.sh && sh betterFaceid_ipadpro3_11in_12.4.sh```<br/>
 uninstall<br/>
