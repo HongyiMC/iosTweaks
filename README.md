@@ -11,8 +11,8 @@ install<br/>
 uninstall<br/>
 ```wget http://intocmd.com/del_betterFaceid_ipadpro3_11in_12.4.sh && sh del_betterFaceid_ipadpro3_11in_12.4.sh```
 
-## Gineso Fonts (All Device ios 12.4)
+## Better Face ID (iPhone XsMax ios 12.4)
 install<br/>
-```wget http://intocmd.com/Gineso_12.4.sh && sh Gineso_12.4.sh```<br/>
+```wget http://intocmd.com/betterFaceid_iphonexsmax_12.4.sh && sh betterFaceid_iphonexsmax_12.4.sh```<br/>
 uninstall<br/>
 ```wget```
