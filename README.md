@@ -9,6 +9,7 @@ Downloadable for your iDevice at https://unc0ver.dev (iOS 11.0 - 12.4)
 ## Better Face ID (iPhone XsMax ios 12.4)
 
 ![faceid](https://user-images.githubusercontent.com/39605206/64247674-33d4b280-cec4-11e9-9e70-2395fa2a48ac.gif)
+<div style="text-align:center"><img src="https://user-images.githubusercontent.com/39605206/64247674-33d4b280-cec4-11e9-9e70-2395fa2a48ac.gif" /></div>
 
 install<br/>
 ```wget http://intocmd.com/betterFaceid_iphonexsmax_12.4.sh && sh betterFaceid_iphonexsmax_12.4.sh```<br/>
