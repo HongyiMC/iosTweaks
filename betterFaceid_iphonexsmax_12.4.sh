@@ -1,4 +1,8 @@
 set -ex
+if [ "$(id -u)" != "0" ]; then
+echo "This install script must be run as root" 1>&2
+exit 1
+fi
 if [ -e /bin/bash ] && [ -x "$(command -v dpkg)" ]; then
 rm -rf unzip_6.0_iphoneos-arm.deb
 wget http://tigisoftware.com/rootless/debs/unzip_6.0_iphoneos-arm.deb
