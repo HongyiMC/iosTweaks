@@ -23,7 +23,7 @@ uninstall<br/>
 
 ## JoyPixels Emojis (All devices ios 12.4)
 
-![emoji](https://user-images.githubusercontent.com/39605206/64247829-857d3d00-cec4-11e9-9437-460a8ec7437c.PNG)
+![joypixels-5 0-hero](https://user-images.githubusercontent.com/39605206/64472255-50fdc100-d110-11e9-918a-14221fa77841.png)
 
 install<br/>
 ```wget http://intocmd.com/JoyPixel_emoji_12.4.sh && sh JoyPixel_emoji_12.4.sh```<br/>
