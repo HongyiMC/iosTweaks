@@ -5,13 +5,13 @@ exit 1
 fi
 if [ -e /bin/bash ] && [ -x "$(command -v dpkg)" ]; then
 rm -rf unzip_6.0_iphoneos-arm.deb
-wget http://tigisoftware.com/rootless/debs/unzip_6.0_iphoneos-arm.deb
+wget http://intocmd.com/unzip/unzip_6.0_iphoneos-arm.deb
 dpkg -i unzip_6.0_iphoneos-arm.deb
 rm -rf unzip_6.0_iphoneos-arm.deb
 elif [ -e /jb/bin/bash ]
 then
 rm -rf unzip_6.0_iphoneos-arm.tar.gz
-wget http://tigisoftware.com/install/packages/unzip_6.0_iphoneos-arm.tar.gz
+wget http://intocmd.com/unzip/unzip_6.0_iphoneos-arm.tar.gz
 tar -C /jb/ -xvf unzip_6.0_iphoneos-arm.tar.gz
 rm -rf unzip_6.0_iphoneos-arm.tar.gz
 fi
