@@ -33,3 +33,10 @@ install<br/>
 ```wget http://intocmd.com/JoyPixel_emoji_12.4.sh && sh JoyPixel_emoji_12.4.sh```<br/>
 uninstall<br/>
 ```wget http://intocmd.com/del_JoyPixel_emoji_12.4.sh && sh del_JoyPixel_emoji_12.4.sh```
+
+## Graffiti Icon Shape (All devices ios 12.4)
+
+install<br/>
+```wget http://intocmd.com/graffiti_12.4.sh && sh graffiti_12.4.sh```<br/>
+uninstall<br/>
+```wget http://intocmd.com/del_graffiti_12.4.sh && sh del_graffiti_12.4.sh```
