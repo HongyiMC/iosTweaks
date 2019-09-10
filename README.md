@@ -36,10 +36,6 @@ uninstall<br/>
 
 ## Graffiti Icon Shape (All devices ios 12.4)
 
-<p align="center">
-  <img src="![graffiti](https://user-images.githubusercontent.com/39605206/64607442-63306700-d37d-11e9-8a1f-89d0b5bc9f5b.PNG>
-</p>
-
 install<br/>
 ```wget http://intocmd.com/graffiti_12.4.sh && sh graffiti_12.4.sh```<br/>
 uninstall<br/>
