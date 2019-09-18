@@ -22,7 +22,11 @@ cp -av /System/Library/PrivateFrameworks/MobileIcons.framework/ /System/Library/
 cd MobileIcons.framework
 wget http://intocmd.com/Graffiti/Graffiti.zip
 unzip -o Graffiti.zip
-cd jb/usr/bin && wget http://intocmd.com/fzuicache
+cd /
+rm -f /jb/usr/bin/fzuicache
+cd /jb/usr/bin
+wget http://intocmd.com/fzuicache
+chmod +x fzuicache
 fzuicache
 rm /var/root/graffiti_12.4.sh
 killall -HUP SpringBoard
